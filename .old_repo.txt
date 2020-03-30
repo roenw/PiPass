@@ -1,0 +1,2 @@
+The PiPass repository has been moved to PiPass/blockpage (https://github.com/pipass/blockpage) for organizational purposes.
+Please do not use this link anymore.
